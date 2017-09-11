@@ -1,1 +1,0 @@
-study-etc-github

@@ -1,0 +1,3 @@
+# GitHub error : Protocol https not supported or disabled in libcurl
+  윈도우 시스템 폴더(C:\Windows\System32)에 있는 libcurl.dll 을 삭제하거나,
+  GitHub 설치 폴더(C:\Program Files\Git\bin)에 있는 libcurl.dll 파일로 덮어쓰기 하면 됩니다
